@@ -14,7 +14,7 @@ require(quanteda)
 toks <- tokens(data_char_ukimmig2010)
 ```
 
-There are several multi-word expressions that are important in social scientific reserach.
+There are several multi-word expressions that are important in social scientific research.
 
 
 ```r
